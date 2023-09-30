@@ -1,0 +1,20 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/go
+{
+    "name": "Node",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    // "workspaceFolder": "/workspace",
+    "extensions": [
+        // common
+        "WakaTime.vscode-wakatime",
+        "leodevbro.blockman",
+        "streetsidesoftware.code-spell-checker",
+        "github.vscode-github-actions",
+        "GitHub.copilot",
+        // go lang
+        "golang.go",
+        "premparihar.gotestexplorer",
+    ],
+}
