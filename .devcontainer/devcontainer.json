@@ -13,8 +13,12 @@
         "streetsidesoftware.code-spell-checker",
         "github.vscode-github-actions",
         "GitHub.copilot",
-        // go lang
         "golang.go",
         "premparihar.gotestexplorer",
+        "vscodevim.vim",
+        // JS
+        "bradlc.vscode-tailwindcss",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-next",
     ],
 }
